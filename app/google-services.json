@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "510018513337",
+    "project_id": "pawls4eversocial",
+    "storage_bucket": "pawls4eversocial.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510018513337:android:7ec3758904445ad857ae68",
+        "android_client_info": {
+          "package_name": "juditgp.com.pawls4eversocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510018513337-kushesjk0t4lo83uimd66d25h4p0bm64.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "juditgp.com.pawls4eversocial",
+            "certificate_hash": "f312437a85ad4e29b6cb6b8aad892a232fd8a821"
+          }
+        },
+        {
+          "client_id": "510018513337-2798p2vo8es4e4v7ou3a46b341r2n43h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVzMSYdqX_GCbZXY-GspbLifNJOjj6PAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510018513337-2798p2vo8es4e4v7ou3a46b341r2n43h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
